@@ -1,0 +1,4 @@
+md: Schema.md
+entry: main
+sql: Schema.sql
+out: Schema.html
